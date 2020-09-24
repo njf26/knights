@@ -1,16 +1,9 @@
 # knights
 
-A new Flutter application.
+This is an ongoing personal project built with Flutter.
+It features a simple game called "Knights" where a player must
+traverse an 8x8 board as a Knight moves in Chess to cover every spot on the board.
+Currently the game logic is functional. The app can time, pause, and resume games.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am in the process of incorporating Google Firebase so users can create accounts that
+track their top scores. The app will also feature a live list of the top 10 scores of all registered users.
