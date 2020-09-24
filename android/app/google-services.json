@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043751808450",
+    "firebase_url": "https://knights-787a9.firebaseio.com",
+    "project_id": "knights-787a9",
+    "storage_bucket": "knights-787a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043751808450:android:13a07882c9298fcb033a5b",
+        "android_client_info": {
+          "package_name": "com.natworth.knights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043751808450-crfvj1ai7n577tvuk95iq1fntfabej1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvgSpRhA2ME7WSDIYN2JtOqa0dLcjuF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043751808450-crfvj1ai7n577tvuk95iq1fntfabej1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
